@@ -1,5 +1,5 @@
-# Create a completely new README content
-new_readme_content = """# 🔐 Password Strength Checker
+# Update README to include live website link
+updated_readme_content = """# 🔐 Password Strength Checker
 
 A **real-time password strength checker** built with **Next.js**, **TypeScript**, and **Tailwind CSS**. It provides instant feedback on password security using entropy-based analysis.  
 
@@ -12,6 +12,10 @@ A **real-time password strength checker** built with **Next.js**, **TypeScript**
 ✔ **Dark mode support** 🌙  
 ✔ **Optimized for performance** 🚀  
 
+## 🌐 Live Demo  
+
+🔗 **Try it here:** [Password Strength Checker](https://password-strength-pranav-sharma.vercel.app/)  
+
 ## 🛠 Tech Stack
 
 - **Framework:** Next.js (App Router)  
@@ -20,10 +24,6 @@ A **real-time password strength checker** built with **Next.js**, **TypeScript**
 - **State Management:** React Hooks  
 - **Icons:** Lucide Icons  
 - **Analytics:** Vercel Analytics  
-
-## 📸 Live Website
-
-![Password Strength Checker](https://password-strength-pranav-sharma.vercel.app/)  
 
 ## 🔧 Installation
 
