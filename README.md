@@ -1,4 +1,3 @@
-# Update README to include live website link
 ## 🔐 Password Strength Checker
 
 A **real-time password strength checker** built with **Next.js**, **TypeScript**, and **Tailwind CSS**. It provides instant feedback on password security using entropy-based analysis.  
